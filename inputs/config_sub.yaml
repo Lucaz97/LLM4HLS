@@ -1,0 +1,6 @@
+# config file
+tcl: "inputs/directives.tcl"
+includes: "inputs/sub_inc.txt"
+orig_code: "inputs/sub.txt"
+test_code: "inputs/sub_test.txt"
+top_function: "SubBytes"
